@@ -41,15 +41,15 @@ function App() {
       </header>
         <div>
 
-            <hr/>
-            <hr/>
+            {/*<hr/>*/}
+            {/*<hr/>*/}
             <MoviesList />
-            <hr/>
-            <hr/>
-            <MoviesByYear />
-            <hr/>
-            <hr/>
-            <PopularYears />
+            {/*<hr/>*/}
+            {/*<hr/>*/}
+            {/*<MoviesByYear />*/}
+            {/*<hr/>*/}
+            {/*<hr/>*/}
+            {/*<PopularYears />*/}
         </div>
     </div>
   );
