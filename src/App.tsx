@@ -1,48 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Movies from './data/movies.json';
 
 import MoviesList from './components/MoviesList/MoviesList';
-import MoviesByYear from './components/moviesByYear/MoviesByYear';
-import PopularYears from "./components/PopularYears/PopularYears";
-
-
-function sortByYear() {
-    const moviesList = Movies.Movies;
-    return moviesList.sort((a, b) => (a.Year > b.Year) ? 1 : -1);
-}
-
-function sortByTitle() {
-    const moviesList = Movies.Movies;
-    return moviesList.sort((a, b) => (a.Title > b.Title) ? 1 : -1);
-}
-
+import BingeStats from "./components/BingeStats/BingeStats";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
           <h1>Horror Movie Binge 2020</h1>
-        {/*<img src={logo} className="App-logo" alt="logo" />*/}
-        {/*<p>*/}
-        {/*  Edit <code>src/App.tsx</code> and save to reload.*/}
-        {/*</p>*/}
-
-
-        {/*<a*/}
-        {/*  className="App-link"*/}
-        {/*  href="https://reactjs.org"*/}
-        {/*  target="_blank"*/}
-        {/*  rel="noopener noreferrer"*/}
-        {/*>*/}
-        {/*  Learn React*/}
-        {/*</a>*/}
+          <p>Goal is to hit 365 for the year</p>
       </header>
         <div>
 
-            {/*<hr/>*/}
-            {/*<hr/>*/}
+            <BingeStats/>
+            <hr/>
+            <h3>Movies watched in chronological order:</h3>
             <MoviesList />
             {/*<hr/>*/}
             {/*<hr/>*/}
