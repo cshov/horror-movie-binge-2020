@@ -1,0 +1,1803 @@
+{
+  "Movies": [
+    {
+      "Title": "Evil Dead",
+      "Year": 1981,
+      "Notes": null,
+      "Series": "Evil Dead",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Pet Sematary",
+      "Year": 2019,
+      "Notes": null,
+      "Series": "Pet Sematary",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "It Chapter 2",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Suspiria",
+      "Year": 1977,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sharknado 5: Global Swarming",
+      "Year": 2017,
+      "Notes": null,
+      "Series": "Sharknado",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sharktopus vs Whalewolf",
+      "Year": 2015,
+      "Notes": null,
+      "Series": "Sharktopus",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Five Headed Shark Attack",
+      "Year": 2017,
+      "Notes": null,
+      "Series": "X Headed Shark Attack",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sand Sharks",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Chopping Mall",
+      "Year": 1986,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Zombie Strippers",
+      "Year": 2008,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Black Mirror: Bandersnatch",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "Black Mirror",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Night of the Living Dead",
+      "Year": 1968,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "The Lighthouse",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "The Crazies",
+      "Year": 1973,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Final Exam",
+      "Year": 1981,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Empire of the Sharks",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Exorcist",
+      "Year": 1973,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Friday the 13th VIII: Jason Takes Manhattan",
+      "Year": 1989,
+      "Notes": null,
+      "Series": "Friday the 13th",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Scream",
+      "Year": 1996,
+      "Notes": null,
+      "Series": "Scream",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Hereditary",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Stuff",
+      "Year": 1985,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Phantasm",
+      "Year": 1979,
+      "Notes": null,
+      "Series": "Phantasm",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Texas Chainsaw Massacre",
+      "Year": 1974,
+      "Notes": null,
+      "Series": "Texas Chainsaw Massacre",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Reanimator",
+      "Year": 1985,
+      "Notes": null,
+      "Series": "Reanimator",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Jack Frost",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Wolfcop",
+      "Year": 2014,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Castle Freak",
+      "Year": 1995,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Q - The Winged Serpent",
+      "Year": 1982,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Starship Troopers",
+      "Year": 1997,
+      "Notes": null,
+      "Series": "Starship Troopers",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Madman",
+      "Year": 1981,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Mayhem",
+      "Year": 2017,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Tetsuo: The Iron Man",
+      "Year": 1989,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Stay Tuned",
+      "Year": 1992,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Slumber Party Massacre",
+      "Year": 1982,
+      "Notes": null,
+      "Series": "Slumber Party Massacre",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Maniac",
+      "Year": 1980,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Tourist Trap",
+      "Year": 1979,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Tremors",
+      "Year": 1990,
+      "Notes": null,
+      "Series": "Tremors",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Scare Package",
+      "Year": 2019,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Face/Off",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sorority Babes in the Slimeball Bowl-O-Rama",
+      "Year": 1988,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Phantasm",
+      "Year": 1979,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Phantasm",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Phantasm 3",
+      "Year": 1994,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Phantasm",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hellraiser",
+      "Year": 1987,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Hellraiser",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Hills Have Eyes",
+      "Year": 1977,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Reanimator",
+      "Year": 1985,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Reanimator",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Hellbound: Hellraiser 2",
+      "Year": 1988,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Hellraiser",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hell Comes to Frogtown (x2)",
+      "Year": 1988,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Bride of Reanimator",
+      "Year": 1990,
+      "Notes": null,
+      "Series": "Reanimator",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Pieces",
+      "Year": 1982,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "I Know What You Did Last Summer",
+      "Year": 1997,
+      "Notes": null,
+      "Series": "IKWYDLS",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Halloween",
+      "Year": 1978,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Halloween",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Society",
+      "Year": 1989,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Cabin in the Woods",
+      "Year": 2011,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Anaconda",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Ice Cream Man",
+      "Year": 1995,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Devils Rejects",
+      "Year": 2005,
+      "Notes": null,
+      "Series": "Firefly Family Trilogy",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Deep Blue Sea",
+      "Year": 1999,
+      "Notes": null,
+      "Series": "Deep Blue Sea",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Attack of the Killer Donuts",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Killer Klowns from Outer Space",
+      "Year": 1988,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "The Crazies",
+      "Year": 2010,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Attack of the Killer Tomatoes",
+      "Year": 1978,
+      "Notes": null,
+      "Series": "Killer Tomatoes",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Return of the Killer Tomatoes",
+      "Year": 1988,
+      "Notes": null,
+      "Series": "Killer Tomatoes",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Ice Sharks",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Arachnoquake",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "CHUD",
+      "Year": 1984,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Sharknado",
+      "Year": 2013,
+      "Notes": null,
+      "Series": "Sharknado",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Freddy vs Jason",
+      "Year": 2003,
+      "Notes": null,
+      "Series": "Nightmare on Elm Street & Friday the 13th",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "The Killer Shrews (In color)",
+      "Year": 1959,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sharkenstein",
+      "Year": 2016,
+      "Notes": "easily the worst special effects ever in a movie",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Lost Boys: The Tribe",
+      "Year": 2008,
+      "Notes": null,
+      "Series": "Lost Boys",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Piranha",
+      "Year": 1995,
+      "Notes": null,
+      "Series": "Piranha",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Mega Piranha",
+      "Year": 2010,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Crawl",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Planet of the Sharks",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Piranhaconda",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Tsunambee",
+      "Year": 2015,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "M.O.M. (Mothers of monsters)",
+      "Year": 2020,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Contamination",
+      "Year": 1980,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Super Shark",
+      "Year": 2011,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Sharknado 2",
+      "Year": 2014,
+      "Notes": null,
+      "Series": "Sharknado",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Escape from LA",
+      "Year": 1996,
+      "Notes": null,
+      "Series": "Snake Plissken Escapes",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sharknado 3",
+      "Year": 2015,
+      "Notes": null,
+      "Series": "Sharknado",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Poseidon Rex",
+      "Year": 2013,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Gangs of the Dead (aka Last Rites)",
+      "Year": 2006,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Hello Mary Lou: Prom Night 2",
+      "Year": 1987,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Prom Night",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Body Melt",
+      "Year": 1993,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Blood Harvest",
+      "Year": 1987,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "My Bloody Valentine",
+      "Year": 1981,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Clownado",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Big Bad Bugs",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Pumpkinhead",
+      "Year": 1988,
+      "Notes": null,
+      "Series": "Pumpkinhead",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Killer Piñata",
+      "Year": 2015,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "It Came From The Desert",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "A Quiet Place",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "A Quiet Place",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Stitches",
+      "Year": 2012,
+      "Notes": "decent clown movie from Ireland",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Bloody Bloody Bible Camp",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Slumber Party Massacre 2",
+      "Year": 1987,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Slumber Party Massacre",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Victor Crowley",
+      "Year": 2017,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Hatchet",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Sorority House Massacre",
+      "Year": 1986,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Zombeavers",
+      "Year": 2014,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Stripped to Kill",
+      "Year": 1987,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Lady Frankenstein",
+      "Year": 1971,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Witch",
+      "Year": 2015,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Priest",
+      "Year": 2011,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Terrifier",
+      "Year": 2016,
+      "Notes": null,
+      "Series": "Terrifier",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Childs Play",
+      "Year": 1988,
+      "Notes": null,
+      "Series": "Childs Play",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Candyman",
+      "Year": 1992,
+      "Notes": null,
+      "Series": "Candyman",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Cult of Chucky",
+      "Year": 2017,
+      "Notes": null,
+      "Series": "Childs Play",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Resident Evil: Afterlife",
+      "Year": 2010,
+      "Notes": null,
+      "Series": "Resident Evil",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Silence of the Lambs",
+      "Year": 1991,
+      "Notes": null,
+      "Series": "Hannibal Lecter",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sleepy Hollow",
+      "Year": 1999,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Underworld",
+      "Year": 2003,
+      "Notes": null,
+      "Series": "Underworld",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Underworld: Evolution",
+      "Year": 2006,
+      "Notes": null,
+      "Series": "Underworld",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Underworld: Rise of the Lycans",
+      "Year": 2009,
+      "Notes": null,
+      "Series": "Underworld",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Doom: Annihilation",
+      "Year": 2019,
+      "Notes": null,
+      "Series": "Doom",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Wicker Man",
+      "Year": 1973,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "MegaShark vs MechaShark",
+      "Year": 2014,
+      "Notes": null,
+      "Series": "MegaShark",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Pet Sematary",
+      "Year": 1989,
+      "Notes": null,
+      "Series": "Pet Sematary",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Demoni/Demons",
+      "Year": 1985,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Babysitter",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Devil’s Advocate",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Scream 2",
+      "Year": 1997,
+      "Notes": null,
+      "Series": "Scream",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "The Rage: Carrie 2",
+      "Year": 1999,
+      "Notes": null,
+      "Series": "Carrie",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Children of the Corn",
+      "Year": 1984,
+      "Notes": null,
+      "Series": "Children of the Corn",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "All Hallows Eve",
+      "Year": 2013,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Ice Spiders",
+      "Year": 2007,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Camel Spiders",
+      "Year": 2011,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Earth vs The Spider",
+      "Year": 1958,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Attack of the Crab Monsters",
+      "Year": 1957,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Angry Red Planet",
+      "Year": 1960,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Invisible Invaders",
+      "Year": 1959,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Relic",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Return of the Living Dead",
+      "Year": 1985,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Night of the Cobra Woman",
+      "Year": 1972,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Forbidden World",
+      "Year": 1982,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Invasion of the Bee Girls",
+      "Year": 1973,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Torso",
+      "Year": 1973,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hot Wax Zombies on Wheels",
+      "Year": 1999,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Nightmare on Elm Street",
+      "Year": 1984,
+      "Notes": null,
+      "Series": "Nightmare on Elm Street",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Nightmare on Elm Street 2: Freddy’s Revenge",
+      "Year": 1985,
+      "Notes": null,
+      "Series": "Nightmare on Elm Street",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Nightmare on Elm Street 3: Dream Warriors",
+      "Year": 1987,
+      "Notes": null,
+      "Series": "Nightmare on Elm Street",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Trance",
+      "Year": 2010,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Nightmare on Elm Street 4: The Dream Master",
+      "Year": 1988,
+      "Notes": null,
+      "Series": "Nightmare on Elm Street",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Nightmare on Elm Street 5: The Dream Child",
+      "Year": 1989,
+      "Notes": null,
+      "Series": "Nightmare on Elm Street",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Sharknado 4: The 4th Awakens",
+      "Year": 2016,
+      "Notes": null,
+      "Series": "Sharknado",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "House on Haunted Hill",
+      "Year": 1959,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Nosferatu",
+      "Year": 1922,
+      "Notes": "B&W, silent film",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Last Man on Earth",
+      "Year": 1964,
+      "Notes": "basically I Am Legend with Vincent Price",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "2 Headed Shark Attack",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Thankskilling",
+      "Year": 2009,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "CarousHELL",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Clown Motel",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Gags the Clown",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Elves",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Day of the Dead",
+      "Year": 2007,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Day of the Dead: Bloodline",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Lords of the Deep",
+      "Year": 1989,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Rift",
+      "Year": 1990,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Killer Mermaid",
+      "Year": 2014,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Loved Ones",
+      "Year": 2009,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Freddy's Dead: The Final Nightmare",
+      "Year": 1991,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Last House on the Left",
+      "Year": 1972,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Zombie Nightmare",
+      "Year": 1987,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Redeemer: Son of Satan",
+      "Year": 1978,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Devil's Rain",
+      "Year": 1975,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Lake Placid",
+      "Year": 1999,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Wes Craven's New Nightmare",
+      "Year": 1994,
+      "Notes": null,
+      "Series": "Nightmare on Elm Street",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Resident Evil",
+      "Year": 2002,
+      "Notes": null,
+      "Series": "Resident Evil",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "It Comes at Night",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Red Dragon",
+      "Year": 2002,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Apollo 18",
+      "Year": 2011,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Leprechaun",
+      "Year": 1993,
+      "Notes": null,
+      "Series": "Leprechaun",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Leprechaun 2",
+      "Year": 1994,
+      "Notes": null,
+      "Series": "Leprechaun",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Babysitter 2: Killer Queen",
+      "Year": 2020,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Leprechaun 3",
+      "Year": 1995,
+      "Notes": null,
+      "Series": "Leprechaun",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Leprechaun 4: In Space",
+      "Year": 1996,
+      "Notes": null,
+      "Series": "Leprechaun",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Fright Night",
+      "Year": 1985,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Silver Bullet",
+      "Year": 1985,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "The Addams Family",
+      "Year": 1991,
+      "Notes": null,
+      "Series": "Addams Family",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Addams Family Values",
+      "Year": 1993,
+      "Notes": null,
+      "Series": "Addams Family",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Zombie Spring Breakers",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Mega Python vs Gatoroid",
+      "Year": 2011,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Cleaver: Rise of the Killer Clown",
+      "Year": 2015,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hatchet",
+      "Year": 2007,
+      "Notes": null,
+      "Series": "Hatchet",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hatchet 2",
+      "Year": 2010,
+      "Notes": null,
+      "Series": "Hatchet",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hatchet 3",
+      "Year": 2013,
+      "Notes": null,
+      "Series": "Hatchet",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Motel Hell",
+      "Year": 1980,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Deranged: Confessions of a Necrophile",
+      "Year": 1974,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Color Out of Space",
+      "Year": 2020,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Maniac Cop",
+      "Year": 1988,
+      "Notes": null,
+      "Series": "Maniac Cop",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Maniac Cop 2",
+      "Year": 1990,
+      "Notes": null,
+      "Series": "Maniac Cop",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Maniac Cop 3: Badge of Silence",
+      "Year": 1992,
+      "Notes": null,
+      "Series": "Maniac Cop",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Satanic Panic",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Sleepaway Camp",
+      "Year": 1983,
+      "Notes": null,
+      "Series": "Sleepaway Camp",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hills Have Eyes 2",
+      "Year": 1984,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Halloween 4: The Return of Michael Myers",
+      "Year": 1988,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Halloween",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "The Ladies of the House",
+      "Year": 2015,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Evil Ed",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Silent Hill",
+      "Year": 2006,
+      "Notes": null,
+      "Series": "Silent Hill",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Wishmaster",
+      "Year": 1997,
+      "Notes": null,
+      "Series": "Wishmaster",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Cube",
+      "Year": 1997,
+      "Notes": null,
+      "Series": "Cube",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Wishmaster 2: Evil Never Dies",
+      "Year": 1999,
+      "Notes": null,
+      "Series": "Wishmaster",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Wishmaster 3: Beyond the Gates of Hell",
+      "Year": 2001,
+      "Notes": null,
+      "Series": "Wishmaster",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Wishmaster 4: The Prophecy Fulfilled",
+      "Year": 2002,
+      "Notes": null,
+      "Series": "Wishmaster",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hellraiser: Revelations",
+      "Year": 2011,
+      "Notes": null,
+      "Series": "Hellraiser",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Hellraiser: Judgement",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "Hellraiser",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "American Werewolf in Paris",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "From Hell it Came",
+      "Year": 1957,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Wasp Woman",
+      "Year": 1959,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Gingerdead Man",
+      "Year": 2005,
+      "Notes": "Gary Busey as a killer gingerbread man.........",
+      "Series": "Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Gingerdead Man 2: Passion of the Crust",
+      "Year": 2008,
+      "Notes": null,
+      "Series": "Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Gingerdead Man 3: Saturday Night Cleaver",
+      "Year": 2011,
+      "Notes": null,
+      "Series": "Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Evil Bong",
+      "Year": 2006,
+      "Notes": null,
+      "Series": "Evil Bong",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Evil Bong 2: Devil's Harvest",
+      "Year": 2009,
+      "Notes": null,
+      "Series": "Evil Bong",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Army of Darkness",
+      "Year": 1992,
+      "Notes": null,
+      "Series": "Evil Dead",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Evil Bong 3: Reefer Madness",
+      "Year": 2011,
+      "Notes": null,
+      "Series": "Evil Bong",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Gingerdead Man vs Evil Bong",
+      "Year": 2013,
+      "Notes": null,
+      "Series": "Evil Bong/Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Evil Bong 4/20",
+      "Year": 2015,
+      "Notes": "abundance of titties",
+      "Series": "Evil Bong/Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Evil Bong: High-5!",
+      "Year": 2016,
+      "Notes": null,
+      "Series": "Evil Bong/Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Evill Bong 666",
+      "Year": 2017,
+      "Notes": "Diana Prince cameo!",
+      "Series": "Evil Bong/Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Evil Bong 777",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "Evil Bong/Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Killjoy: The Demon Clown",
+      "Year": 2000,
+      "Notes": null,
+      "Series": "Killjoy",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Killjoy 2: Deliverance From Evil",
+      "Year": 2000,
+      "Notes": null,
+      "Series": "Killjoy",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Devil Bat",
+      "Year": 1940,
+      "Notes": "Bela Lugosi",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Day of the Dead",
+      "Year": 1985,
+      "Notes": null,
+      "Series": "Day of the Dead",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Santa's Slay",
+      "Year": 2005,
+      "Notes": "GOLDBERG as evil Santa....",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Last Woman on Earth",
+      "Year": 1960,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Hideous Sun Demon",
+      "Year": 1958,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Terror",
+      "Year": 1963,
+      "Notes": "Boris Karloff and Jack Nicholson!",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Frankenstein Meets the Space Monster",
+      "Year": 1965,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The City of the Dead",
+      "Year": 1959,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Witchcraft",
+      "Year": 1964,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Mark of the Witch",
+      "Year": 1970,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Beast with a Million Eyes",
+      "Year": 1955,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Day the World Ended",
+      "Year": 1955,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Demonic Toys",
+      "Year": 1992,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Daughter of Dr. Jekyll",
+      "Year": 1957,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Butcher's Bakeoff: Hell's Kitchen",
+      "Year": 2019,
+      "Notes": null,
+      "Series": "Evil Bong/Gingerdead Man",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Brain Damage",
+      "Year": 1988,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Mausoleum",
+      "Year": 1983,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Cube 2: Hypercube",
+      "Year": 2003,
+      "Notes": null,
+      "Series": "Cube",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Cube Zero",
+      "Year": 2005,
+      "Notes": null,
+      "Series": "Cube",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "The Mutilator",
+      "Year": 1984,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Eaten Alive",
+      "Year": 1977,
+      "Notes": "Tobe Hooper film",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Inseminoid",
+      "Year": 1982,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "CHUD 2: Bud the Chud",
+      "Year": 1989,
+      "Notes": null,
+      "Series": "CHUD",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Sleepaway Camp 2: Unhappy Campers",
+      "Year": 1988,
+      "Notes": null,
+      "Series": "Sleepaway Camp",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Sleepaway Camp 3: Teenage Wasteland",
+      "Year": 1989,
+      "Notes": null,
+      "Series": "Sleepaway Camp",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Season of the Witch",
+      "Year": 1973,
+      "Notes": "George A Romero",
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Prom Night",
+      "Year": 1980,
+      "Notes": null,
+      "Series": "Prom Night",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Phantasm IV: Oblivion",
+      "Year": 1998,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Phantasm",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Phantasm Ravager",
+      "Year": 2016,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Phantasm",
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Dawn of the Dead",
+      "Year": 1978,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Silent Hill: Revelations",
+      "Year": 2012,
+      "Notes": null,
+      "Series": "Silent Hill",
+      "First time seeing?": 0
+    },
+    {
+      "Title": "Teeth",
+      "Year": 2007,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Drive In Massacre",
+      "Year": 1975,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": null
+    },
+    {
+      "Title": "The Undertaker",
+      "Year": 1988,
+      "Notes": "Joe Spinell being creepy AF of course",
+      "Series": null,
+      "First time seeing?": null
+    }
+  ]
+}
