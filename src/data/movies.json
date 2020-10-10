@@ -1790,14 +1790,35 @@
       "Year": 1975,
       "Notes": null,
       "Series": null,
-      "First time seeing?": null
+      "First time seeing?": 1
     },
     {
       "Title": "The Undertaker",
       "Year": 1988,
       "Notes": "Joe Spinell being creepy AF of course",
       "Series": null,
-      "First time seeing?": null
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Don't Look in the Basement",
+      "Year": 1973,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Bride of the Gorilla",
+      "Year": 1951,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 1
+    },
+    {
+      "Title": "Get Out",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "First time seeing?": 0
     }
   ]
 }
