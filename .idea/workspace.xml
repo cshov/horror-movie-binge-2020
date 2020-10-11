@@ -1,101 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="719ca276-36ed-41d7-93c1-c937aaea6ed1" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="719ca276-36ed-41d7-93c1-c937aaea6ed1" name="Default Changelist" comment="updating package.json">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-scripts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/react-scripts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/lib/ajv.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/lib/ajv.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/lib/compile/formats.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/lib/compile/formats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-scripts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data/movies.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="1786" column="6" lean-forward="true" selection-start-line="1786" selection-start-column="6" selection-end-line="1786" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="17a84054-0fa5-46d9-a5d5-f2bdcee0b316" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/data/movies.json" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="horror-binge-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="horror-binge-2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="horror-binge-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="horror-binge-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="horror-binge-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="horror-binge-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1ihg7JIHCSdETEYqIqjVLaEpYYp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="C:\Users\sidepiece\WebstormProjects\horror-binge-2020" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -109,6 +93,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -123,46 +108,121 @@
       <option name="presentableId" value="Default" />
       <updated>1602296296192</updated>
       <workItem from="1602296297341" duration="478000" />
+      <workItem from="1602365069839" duration="11028000" />
     </task>
+    <task id="LOCAL-00001" summary="updating movies JSON">
+      <created>1602365723309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602365723309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updating movies JSON">
+      <created>1602387213844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602387213844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updating movies JSON and adding decades count">
+      <created>1602433180494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602433180494</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updating movies JSON">
+      <created>1602433300396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602433300396</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updating movies JSON, updating formatting, and adding navigation">
+      <created>1602447386425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602447386425</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updating movies JSON">
+      <created>1602447408988</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602447408988</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updating package.json">
+      <created>1602447677414</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602447677414</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="478000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <layout>
-      <window_info id="npm" sideWeight="0.50163937" side_tool="true" visible="true" weight="0.24973656" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.24973656" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data/movies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="1786" column="6" lean-forward="true" selection-start-line="1786" selection-start-column="6" selection-end-line="1786" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updating movies JSON and adding decades count" />
+    <MESSAGE value="updating movies JSON, updating formatting, and adding navigation" />
+    <MESSAGE value="updating movies JSON" />
+    <MESSAGE value="updating package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating package.json" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="139" width="1455" height="864" key="DiffContextDialog" timestamp="1602447691855">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="168" y="139" width="1455" height="864" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1602447691855" />
+    <state width="1613" height="292" key="GridCell.Tab.0.bottom" timestamp="1602444386873">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1613" height="292" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1602444386873" />
+    <state width="1613" height="292" key="GridCell.Tab.0.center" timestamp="1602444386872">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1613" height="292" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1602444386872" />
+    <state width="1613" height="292" key="GridCell.Tab.0.left" timestamp="1602444386872">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1613" height="292" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1602444386872" />
+    <state width="1613" height="292" key="GridCell.Tab.0.right" timestamp="1602444386873">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1613" height="292" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1602444386873" />
+    <state x="604" y="280" key="RollbackChangesDialog" timestamp="1602368504099">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="604" y="280" key="RollbackChangesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1602368504099" />
+    <state x="397" y="210" key="SettingsEditor" timestamp="1602444355619">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1602444355619" />
+    <state x="495" y="298" key="Vcs.Push.Dialog.v2" timestamp="1602447679520">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="495" y="298" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1602447679520" />
+    <state x="592" y="206" width="903" height="729" key="find.popup" timestamp="1602434744498">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="592" y="206" width="903" height="729" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1602434744498" />
+    <state x="560" y="276" width="670" height="676" key="search.everywhere.popup" timestamp="1602367705306">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="560" y="276" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1602367705306" />
   </component>
 </project>
