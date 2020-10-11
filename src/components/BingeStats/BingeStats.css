@@ -1,0 +1,12 @@
+.bingeStats {
+
+}
+
+.statRow {
+    display: flex;
+    flex-direction: row;
+}
+
+.statContainer {
+    flex: 1;
+}

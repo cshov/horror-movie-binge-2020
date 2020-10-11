@@ -28,11 +28,33 @@ table td {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: orange;
+}
+
+.App-header h1 {
+  margin: 20px 0 0;
+}
+
+.App-header p {
+  font-size: 12px;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.navMenu {
+  display: flex;
+  margin-bottom: 32px;
+}
+
+.navMenu a {
+  flex: 1;
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  background: black;
+  color: orange;
 }
 
 @keyframes App-logo-spin {
