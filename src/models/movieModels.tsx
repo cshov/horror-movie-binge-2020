@@ -7,6 +7,8 @@ export type MovieObject = {
   Year: number;
   Notes?: string | undefined | null;
   Series?: string | undefined | null;
+  newToMe?: any;
+  imdbId? : any;
 };
 
 export type YearObject = {

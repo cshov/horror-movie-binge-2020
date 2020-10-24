@@ -5,7 +5,7 @@
       "Year": 1981,
       "Notes": null,
       "Series": "Evil Dead",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -13,7 +13,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": "Pet Sematary",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -21,7 +21,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": "It",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -29,7 +29,7 @@
       "Year": 1977,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -37,7 +37,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": "Sharknado",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -45,7 +45,7 @@
       "Year": 2015,
       "Notes": null,
       "Series": "Sharktopus",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -53,7 +53,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": "X Headed Shark Attack",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -61,7 +61,7 @@
       "Year": 2012,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -69,7 +69,7 @@
       "Year": 1986,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -77,7 +77,7 @@
       "Year": 2008,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -85,7 +85,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": "Black Mirror",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -93,7 +93,7 @@
       "Year": 1968,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -101,7 +101,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -109,7 +109,7 @@
       "Year": 1973,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -117,7 +117,7 @@
       "Year": 1981,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -125,7 +125,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -133,7 +133,7 @@
       "Year": 1973,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -141,7 +141,7 @@
       "Year": 1989,
       "Notes": null,
       "Series": "Friday the 13th",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -149,7 +149,7 @@
       "Year": 1996,
       "Notes": null,
       "Series": "Scream",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -157,7 +157,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -165,7 +165,7 @@
       "Year": 1985,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -173,7 +173,7 @@
       "Year": 1979,
       "Notes": null,
       "Series": "Phantasm",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -181,7 +181,7 @@
       "Year": 1974,
       "Notes": null,
       "Series": "Texas Chainsaw Massacre",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -189,7 +189,7 @@
       "Year": 1985,
       "Notes": null,
       "Series": "Reanimator",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -197,7 +197,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -205,7 +205,7 @@
       "Year": 2014,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -213,7 +213,7 @@
       "Year": 1995,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -221,7 +221,7 @@
       "Year": 1982,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -229,7 +229,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": "Starship Troopers",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -237,7 +237,7 @@
       "Year": 1981,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -245,7 +245,7 @@
       "Year": 2017,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -253,7 +253,7 @@
       "Year": 1989,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -261,7 +261,7 @@
       "Year": 1992,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -269,7 +269,7 @@
       "Year": 1982,
       "Notes": null,
       "Series": "Slumber Party Massacre",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -277,7 +277,7 @@
       "Year": 1980,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -285,7 +285,7 @@
       "Year": 1979,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -293,7 +293,7 @@
       "Year": 1990,
       "Notes": null,
       "Series": "Tremors",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -301,7 +301,7 @@
       "Year": 2019,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -309,7 +309,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -317,7 +317,7 @@
       "Year": 1988,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -325,7 +325,7 @@
       "Year": 1979,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Phantasm",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -333,7 +333,7 @@
       "Year": 1994,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Phantasm",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -341,7 +341,7 @@
       "Year": 1987,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Hellraiser",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -349,7 +349,7 @@
       "Year": 1977,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -357,7 +357,7 @@
       "Year": 1985,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Reanimator",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -365,7 +365,7 @@
       "Year": 1988,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Hellraiser",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -373,7 +373,7 @@
       "Year": 1988,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -381,7 +381,7 @@
       "Year": 1990,
       "Notes": null,
       "Series": "Reanimator",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -389,7 +389,7 @@
       "Year": 1982,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -397,7 +397,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": "IKWYDLS",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -405,7 +405,7 @@
       "Year": 1978,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Halloween",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -413,7 +413,7 @@
       "Year": 1989,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -421,7 +421,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -429,7 +429,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -437,7 +437,7 @@
       "Year": 1995,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -445,7 +445,7 @@
       "Year": 2005,
       "Notes": null,
       "Series": "Firefly Family Trilogy",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -453,7 +453,7 @@
       "Year": 1999,
       "Notes": null,
       "Series": "Deep Blue Sea",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -461,7 +461,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -469,7 +469,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -477,7 +477,7 @@
       "Year": 2010,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -485,7 +485,7 @@
       "Year": 1978,
       "Notes": null,
       "Series": "Killer Tomatoes",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -493,7 +493,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": "Killer Tomatoes",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -501,7 +501,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -509,7 +509,7 @@
       "Year": 2012,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -517,7 +517,7 @@
       "Year": 1984,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -525,7 +525,7 @@
       "Year": 2013,
       "Notes": null,
       "Series": "Sharknado",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -533,7 +533,7 @@
       "Year": 2003,
       "Notes": null,
       "Series": "Nightmare on Elm Street & Friday the 13th",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -541,7 +541,7 @@
       "Year": 1959,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -549,7 +549,7 @@
       "Year": 2016,
       "Notes": "easily the worst special effects ever in a movie",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -557,7 +557,7 @@
       "Year": 2008,
       "Notes": null,
       "Series": "Lost Boys",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -565,7 +565,7 @@
       "Year": 1995,
       "Notes": null,
       "Series": "Piranha",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -573,7 +573,7 @@
       "Year": 2010,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -581,7 +581,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -589,7 +589,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -597,7 +597,7 @@
       "Year": 2012,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -605,7 +605,7 @@
       "Year": 2015,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -613,7 +613,7 @@
       "Year": 2020,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -621,7 +621,7 @@
       "Year": 1980,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -629,7 +629,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -637,7 +637,7 @@
       "Year": 2014,
       "Notes": null,
       "Series": "Sharknado",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -645,7 +645,7 @@
       "Year": 1996,
       "Notes": null,
       "Series": "Snake Plissken Escapes",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -653,7 +653,7 @@
       "Year": 2015,
       "Notes": null,
       "Series": "Sharknado",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -661,7 +661,7 @@
       "Year": 2013,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -669,7 +669,7 @@
       "Year": 2006,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -677,7 +677,7 @@
       "Year": 1987,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Prom Night",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -685,7 +685,7 @@
       "Year": 1993,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -693,7 +693,7 @@
       "Year": 1987,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -701,7 +701,7 @@
       "Year": 1981,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -709,7 +709,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -717,7 +717,7 @@
       "Year": 2012,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -725,7 +725,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": "Pumpkinhead",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -733,7 +733,7 @@
       "Year": 2015,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -741,7 +741,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -749,7 +749,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": "A Quiet Place",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -757,7 +757,7 @@
       "Year": 2012,
       "Notes": "decent clown movie from Ireland",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -765,7 +765,7 @@
       "Year": 2012,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -773,7 +773,7 @@
       "Year": 1987,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Slumber Party Massacre",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -781,7 +781,7 @@
       "Year": 2017,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Hatchet",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -789,7 +789,7 @@
       "Year": 1986,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -797,7 +797,7 @@
       "Year": 2014,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -805,7 +805,7 @@
       "Year": 1987,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -813,7 +813,7 @@
       "Year": 1971,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -821,7 +821,7 @@
       "Year": 2015,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -829,7 +829,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -837,7 +837,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": "Terrifier",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -845,7 +845,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": "Childs Play",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -853,7 +853,7 @@
       "Year": 1992,
       "Notes": null,
       "Series": "Candyman",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -861,7 +861,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": "Childs Play",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -869,7 +869,7 @@
       "Year": 2010,
       "Notes": null,
       "Series": "Resident Evil",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -877,7 +877,7 @@
       "Year": 1991,
       "Notes": null,
       "Series": "Hannibal Lecter",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -885,7 +885,7 @@
       "Year": 1999,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -893,7 +893,7 @@
       "Year": 2003,
       "Notes": null,
       "Series": "Underworld",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -901,7 +901,7 @@
       "Year": 2006,
       "Notes": null,
       "Series": "Underworld",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -909,7 +909,7 @@
       "Year": 2009,
       "Notes": null,
       "Series": "Underworld",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -917,7 +917,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": "Doom",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -925,7 +925,7 @@
       "Year": 1973,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -933,7 +933,7 @@
       "Year": 2014,
       "Notes": null,
       "Series": "MegaShark",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -941,7 +941,7 @@
       "Year": 1989,
       "Notes": null,
       "Series": "Pet Sematary",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -949,7 +949,7 @@
       "Year": 1985,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -957,7 +957,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -965,7 +965,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -973,7 +973,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": "Scream",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -981,7 +981,7 @@
       "Year": 1999,
       "Notes": null,
       "Series": "Carrie",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -989,7 +989,7 @@
       "Year": 1984,
       "Notes": null,
       "Series": "Children of the Corn",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -997,7 +997,7 @@
       "Year": 2013,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1005,7 +1005,7 @@
       "Year": 2007,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1013,7 +1013,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1021,7 +1021,7 @@
       "Year": 1958,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1029,7 +1029,7 @@
       "Year": 1957,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1037,7 +1037,7 @@
       "Year": 1960,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1045,7 +1045,7 @@
       "Year": 1959,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1053,7 +1053,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1061,7 +1061,7 @@
       "Year": 1985,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1069,7 +1069,7 @@
       "Year": 1972,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1077,7 +1077,7 @@
       "Year": 1982,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1085,7 +1085,7 @@
       "Year": 1973,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1093,7 +1093,7 @@
       "Year": 1973,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1101,7 +1101,7 @@
       "Year": 1999,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1109,7 +1109,7 @@
       "Year": 1984,
       "Notes": null,
       "Series": "Nightmare on Elm Street",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1117,7 +1117,7 @@
       "Year": 1985,
       "Notes": null,
       "Series": "Nightmare on Elm Street",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1125,7 +1125,7 @@
       "Year": 1987,
       "Notes": null,
       "Series": "Nightmare on Elm Street",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1133,7 +1133,7 @@
       "Year": 2010,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1141,7 +1141,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": "Nightmare on Elm Street",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1149,7 +1149,7 @@
       "Year": 1989,
       "Notes": null,
       "Series": "Nightmare on Elm Street",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1157,7 +1157,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": "Sharknado",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1165,7 +1165,7 @@
       "Year": 1959,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1173,7 +1173,7 @@
       "Year": 1922,
       "Notes": "B&W, silent film",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1181,7 +1181,7 @@
       "Year": 1964,
       "Notes": "basically I Am Legend with Vincent Price",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1189,7 +1189,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1197,7 +1197,7 @@
       "Year": 2009,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1205,7 +1205,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1213,7 +1213,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1221,7 +1221,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1229,7 +1229,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1237,7 +1237,7 @@
       "Year": 2007,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1245,7 +1245,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1253,7 +1253,7 @@
       "Year": 1989,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1261,7 +1261,7 @@
       "Year": 1990,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1269,7 +1269,7 @@
       "Year": 2014,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1277,7 +1277,7 @@
       "Year": 2009,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1285,7 +1285,7 @@
       "Year": 1991,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1293,7 +1293,7 @@
       "Year": 1972,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1301,7 +1301,7 @@
       "Year": 1987,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1309,7 +1309,7 @@
       "Year": 1978,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1317,7 +1317,7 @@
       "Year": 1975,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1325,7 +1325,7 @@
       "Year": 1999,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1333,7 +1333,7 @@
       "Year": 1994,
       "Notes": null,
       "Series": "Nightmare on Elm Street",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1341,7 +1341,7 @@
       "Year": 2002,
       "Notes": null,
       "Series": "Resident Evil",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1349,7 +1349,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1357,7 +1357,7 @@
       "Year": 2002,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1365,7 +1365,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1373,7 +1373,7 @@
       "Year": 1993,
       "Notes": null,
       "Series": "Leprechaun",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1381,7 +1381,7 @@
       "Year": 1994,
       "Notes": null,
       "Series": "Leprechaun",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1389,7 +1389,7 @@
       "Year": 2020,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1397,7 +1397,7 @@
       "Year": 1995,
       "Notes": null,
       "Series": "Leprechaun",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1405,7 +1405,7 @@
       "Year": 1996,
       "Notes": null,
       "Series": "Leprechaun",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1413,7 +1413,7 @@
       "Year": 1985,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1421,7 +1421,7 @@
       "Year": 1985,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1429,7 +1429,7 @@
       "Year": 1991,
       "Notes": null,
       "Series": "Addams Family",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1437,7 +1437,7 @@
       "Year": 1993,
       "Notes": null,
       "Series": "Addams Family",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1445,7 +1445,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1453,7 +1453,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1461,7 +1461,7 @@
       "Year": 2015,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1469,7 +1469,7 @@
       "Year": 2007,
       "Notes": null,
       "Series": "Hatchet",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1477,7 +1477,7 @@
       "Year": 2010,
       "Notes": null,
       "Series": "Hatchet",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1485,7 +1485,7 @@
       "Year": 2013,
       "Notes": null,
       "Series": "Hatchet",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1493,7 +1493,7 @@
       "Year": 1980,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1501,7 +1501,7 @@
       "Year": 1974,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1509,7 +1509,7 @@
       "Year": 2020,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1517,7 +1517,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": "Maniac Cop",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1525,7 +1525,7 @@
       "Year": 1990,
       "Notes": null,
       "Series": "Maniac Cop",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1533,7 +1533,7 @@
       "Year": 1992,
       "Notes": null,
       "Series": "Maniac Cop",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1541,7 +1541,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1549,7 +1549,7 @@
       "Year": 1983,
       "Notes": null,
       "Series": "Sleepaway Camp",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1557,7 +1557,7 @@
       "Year": 1984,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1565,7 +1565,7 @@
       "Year": 1988,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Halloween",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1573,7 +1573,7 @@
       "Year": 2015,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1581,7 +1581,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1589,7 +1589,7 @@
       "Year": 2006,
       "Notes": null,
       "Series": "Silent Hill",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1597,7 +1597,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": "Wishmaster",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1605,7 +1605,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": "Cube",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1613,7 +1613,7 @@
       "Year": 1999,
       "Notes": null,
       "Series": "Wishmaster",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1621,7 +1621,7 @@
       "Year": 2001,
       "Notes": null,
       "Series": "Wishmaster",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1629,7 +1629,7 @@
       "Year": 2002,
       "Notes": null,
       "Series": "Wishmaster",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1637,7 +1637,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": "Hellraiser",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1645,7 +1645,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": "Hellraiser",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1653,7 +1653,7 @@
       "Year": 1997,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1661,7 +1661,7 @@
       "Year": 1957,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1669,7 +1669,7 @@
       "Year": 1959,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1677,7 +1677,7 @@
       "Year": 2005,
       "Notes": "Gary Busey as a killer gingerbread man.........",
       "Series": "Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1685,7 +1685,7 @@
       "Year": 2008,
       "Notes": null,
       "Series": "Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1693,7 +1693,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": "Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1701,7 +1701,7 @@
       "Year": 2006,
       "Notes": null,
       "Series": "Evil Bong",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1709,7 +1709,7 @@
       "Year": 2009,
       "Notes": null,
       "Series": "Evil Bong",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1717,7 +1717,7 @@
       "Year": 1992,
       "Notes": null,
       "Series": "Evil Dead",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1725,7 +1725,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": "Evil Bong",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1733,7 +1733,7 @@
       "Year": 2013,
       "Notes": null,
       "Series": "Evil Bong/Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1741,7 +1741,7 @@
       "Year": 2015,
       "Notes": "abundance of titties",
       "Series": "Evil Bong/Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1749,7 +1749,7 @@
       "Year": 2016,
       "Notes": null,
       "Series": "Evil Bong/Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1757,7 +1757,7 @@
       "Year": 2017,
       "Notes": "Diana Prince cameo!",
       "Series": "Evil Bong/Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1765,7 +1765,7 @@
       "Year": 2018,
       "Notes": null,
       "Series": "Evil Bong/Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1773,7 +1773,7 @@
       "Year": 2000,
       "Notes": null,
       "Series": "Killjoy",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1781,7 +1781,7 @@
       "Year": 2000,
       "Notes": null,
       "Series": "Killjoy",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1789,7 +1789,7 @@
       "Year": 1940,
       "Notes": "Bela Lugosi",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1797,7 +1797,7 @@
       "Year": 1985,
       "Notes": null,
       "Series": "Day of the Dead",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -1805,7 +1805,7 @@
       "Year": 2005,
       "Notes": "GOLDBERG as evil Santa....",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1813,7 +1813,7 @@
       "Year": 1960,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -1821,7 +1821,7 @@
       "Year": 1958,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0052888"
     },
     {
@@ -1829,7 +1829,7 @@
       "Year": 1963,
       "Notes": "Boris Karloff and Jack Nicholson!",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0057569"
     },
     {
@@ -1837,7 +1837,7 @@
       "Year": 1965,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0059199"
     },
     {
@@ -1845,7 +1845,7 @@
       "Year": 1959,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0053719"
     },
     {
@@ -1853,7 +1853,7 @@
       "Year": 1964,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0058753"
     },
     {
@@ -1861,7 +1861,7 @@
       "Year": 1970,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0066058"
     },
     {
@@ -1869,7 +1869,7 @@
       "Year": 1955,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0048991"
     },
     {
@@ -1877,7 +1877,7 @@
       "Year": 1955,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0049128"
     },
     {
@@ -1885,7 +1885,7 @@
       "Year": 1992,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0104083"
     },
     {
@@ -1893,7 +1893,7 @@
       "Year": 1957,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0050292"
     },
     {
@@ -1901,7 +1901,7 @@
       "Year": 2019,
       "Notes": null,
       "Series": "Evil Bong/Gingerdead Man",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt11290884"
     },
     {
@@ -1909,7 +1909,7 @@
       "Year": 1988,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0094793"
     },
     {
@@ -1917,7 +1917,7 @@
       "Year": 1983,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0085918"
     },
     {
@@ -1925,7 +1925,7 @@
       "Year": 2003,
       "Notes": null,
       "Series": "Cube",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0285492"
     },
     {
@@ -1933,7 +1933,7 @@
       "Year": 2005,
       "Notes": null,
       "Series": "Cube",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0377713"
     },
     {
@@ -1941,7 +1941,7 @@
       "Year": 1984,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0124014"
     },
     {
@@ -1949,7 +1949,7 @@
       "Year": 1977,
       "Notes": "Tobe Hooper film",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0074455"
     },
     {
@@ -1957,7 +1957,7 @@
       "Year": 1982,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0084090"
     },
     {
@@ -1965,7 +1965,7 @@
       "Year": 1989,
       "Notes": null,
       "Series": "CHUD",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0097001"
     },
     {
@@ -1973,7 +1973,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": "Sleepaway Camp",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0096118"
     },
     {
@@ -1981,7 +1981,7 @@
       "Year": 1989,
       "Notes": null,
       "Series": "Sleepaway Camp",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0096119"
     },
     {
@@ -1989,7 +1989,7 @@
       "Year": 1973,
       "Notes": "George A Romero",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0069239"
     },
     {
@@ -1997,7 +1997,7 @@
       "Year": 1980,
       "Notes": null,
       "Series": "Prom Night",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0081383"
     },
     {
@@ -2005,7 +2005,7 @@
       "Year": 1998,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Phantasm",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0138703"
     },
     {
@@ -2013,7 +2013,7 @@
       "Year": 2016,
       "Notes": "Last Drive In with Joe Bob Briggs",
       "Series": "Phantasm",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt3627704"
     },
     {
@@ -2021,7 +2021,7 @@
       "Year": 1978,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": "tt0077402"
     },
     {
@@ -2029,7 +2029,7 @@
       "Year": 2012,
       "Notes": null,
       "Series": "Silent Hill",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": "tt0938330"
     },
     {
@@ -2037,7 +2037,7 @@
       "Year": 2007,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0780622"
     },
     {
@@ -2045,7 +2045,7 @@
       "Year": 1975,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0074434"
     },
     {
@@ -2053,7 +2053,7 @@
       "Year": 1988,
       "Notes": "Joe Spinell being creepy AF of course",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0249218"
     },
     {
@@ -2061,7 +2061,7 @@
       "Year": 1973,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0069994"
     },
     {
@@ -2069,7 +2069,7 @@
       "Year": 1951,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0043360"
     },
     {
@@ -2077,7 +2077,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": "tt5052448"
     },
     {
@@ -2085,7 +2085,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": "It",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": "tt1396484"
     },
     {
@@ -2093,7 +2093,7 @@
       "Year": 2014,
       "Notes": "way less nudity than expected :(",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt2577172"
     },
     {
@@ -2101,7 +2101,7 @@
       "Year": 2018,
       "Notes": "STUPID AS FUCK, HOLY SHIT",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt4642970"
     },
     {
@@ -2109,7 +2109,7 @@
       "Year": 1978,
       "Notes": null,
       "Series": "Piranha",
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0078087"
     },
     {
@@ -2117,7 +2117,7 @@
       "Year": 1989,
       "Notes": "Music by Anthrax!",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0095878"
     },
     {
@@ -2125,7 +2125,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt0097364"
     },
     {
@@ -2133,7 +2133,7 @@
       "Year": 2017,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": "tt5923752"
     },
     {
@@ -2141,7 +2141,7 @@
       "Year": 1995,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -2149,7 +2149,7 @@
       "Year": 1982,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -2157,7 +2157,7 @@
       "Year": 1999,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -2165,7 +2165,7 @@
       "Year": 2008,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -2173,7 +2173,7 @@
       "Year": 1988,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -2181,7 +2181,7 @@
       "Year": 1998,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -2189,7 +2189,7 @@
       "Year": 2008,
       "Notes": null,
       "Series": "Dead Space",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -2197,7 +2197,7 @@
       "Year": 2011,
       "Notes": null,
       "Series": "Dead Space",
-      "First time seeing?": 0,
+      "newToMe": 0,
       "imdbId": null
     },
     {
@@ -2205,7 +2205,7 @@
       "Year": 1976,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -2213,7 +2213,7 @@
       "Year": 1980,
       "Notes": "Lucio Fulci",
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
     },
     {
@@ -2221,8 +2221,152 @@
       "Year": 1988,
       "Notes": null,
       "Series": null,
-      "First time seeing?": 1,
+      "newToMe": 1,
       "imdbId": null
+    },
+    {
+      "Title": "Shaun of the Dead",
+      "Year": 2004,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0365748"
+    },
+    {
+      "Title": "Touch of Death",
+      "Year": 1988,
+      "Notes": "Lucio Fulci (in Italian)",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0095941"
+    },
+    {
+      "Title": "Puppet Master: The Littlest Reich",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "Puppet Master",
+      "newToMe": 1,
+      "imdbId": "tt5685006"
+    },
+    {
+      "Title": "Hellmaster",
+      "Year": 1992,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0165489"
+    },
+    {
+      "Title": "Shivers",
+      "Year": 1975,
+      "Notes": "Cronenberg",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0073705"
+    },
+    {
+      "Title": "Mind Killer",
+      "Year": 1987,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0158785"
+    },
+    {
+      "Title": "Effects",
+      "Year": 1979,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0077485"
+    },
+    {
+      "Title": "Ticks",
+      "Year": 1993,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0108339"
+    },
+    {
+      "Title": "Shock Waves",
+      "Year": 1977,
+      "Notes": "Underwater nazi zombies....",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0076704"
+    },
+    {
+      "Title": "Funland",
+      "Year": 1987,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": null
+    },
+    {
+      "Title": "Night of the Dribbler",
+      "Year": 1990,
+      "Notes": "overly goofy AF but enjoyable",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": null
+    },
+    {
+      "Title": "Mountaintop Motel Massacre",
+      "Year": 1983,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0091560"
+    },
+    {
+      "Title": "Barracuda",
+      "Year": 1978,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0077210"
+    },
+    {
+      "Title": "The Fanatic",
+      "Year": 2019,
+      "Notes": "Fred Durst directing Travolta as creepy autistic, TERRIBLE",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": null
+    },
+    {
+      "Title": "The VelociPastor",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": null
+    },
+    {
+      "Title": "Carnivore",
+      "Year": 2000,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0251005"
+    },
+    {
+      "Title": "The Monster Club",
+      "Year": 1981,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0081178"
+    },
+    {
+      "Title": "Haunt",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt6535880"
     }
   ]
 }

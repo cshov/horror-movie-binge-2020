@@ -29,6 +29,18 @@ function getNumberMoviesToReachGoal(): string {
     return rate.toFixed(3);
 }
 
+function getTotalMoviesAtPace(moviesPerDay: number): number {
+    const daysLeft = getDaysLeft();
+    const MoviesResponse: MoviesList = Movies;
+    const moviesList: MovieObject[] = MoviesResponse.Movies;
+    const moviesSoFar = moviesList.length;
+
+
+    return (moviesSoFar + (daysLeft * moviesPerDay));
+
+
+}
+
 function sortByYear(): MovieObject[]{
     const MoviesResponse: MoviesList = Movies;
     const moviesList: MovieObject[] = MoviesResponse.Movies;
@@ -128,6 +140,10 @@ function sortYearsByMoviesWatched() {
     return numbersByYear.sort((a: YearObject,b:YearObject) => (a.Total > b.Total) ? 1 : -1);
 }
 
+function numberOfMoviesNewToMe(): number {
+    return Movies.Movies.filter(movie => movie.newToMe === 1).length;
+}
 
 
-export {sortByYear, sortByTitle, sortYearsByMoviesWatched, getYearsList, getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCounts};
+
+export {sortByYear, sortByTitle, sortYearsByMoviesWatched, getYearsList, getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCounts, getTotalMoviesAtPace, numberOfMoviesNewToMe};

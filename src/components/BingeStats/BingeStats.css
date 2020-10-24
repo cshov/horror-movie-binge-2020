@@ -2,9 +2,14 @@
 
 }
 
+h2 {
+    margin: 0;
+}
+
 .statRow {
     display: flex;
     flex-direction: row;
+    margin-bottom: 60px;
 }
 
 .statContainer {
