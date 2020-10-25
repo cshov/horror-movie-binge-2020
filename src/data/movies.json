@@ -2375,6 +2375,54 @@
       "Series": null,
       "newToMe": 1,
       "imdbId": "tt0093135"
+    },
+    {
+      "Title": "Scream 3",
+      "Year": 2000,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0134084"
+    },
+    {
+      "Title": "Dead Pit",
+      "Year": 1989,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0122037"
+    },
+    {
+      "Title": "Saw",
+      "Year": 2004,
+      "Notes": null,
+      "Series": "Saw",
+      "newToMe": 0,
+      "imdbId": "tt0387564"
+    },
+    {
+      "Title": "Pit and the Pendulum",
+      "Year": 1961,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0055304"
+    },
+    {
+      "Title": "Madhouse",
+      "Year": 1974,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0071790"
+    },
+    {
+      "Title": "The Skull",
+      "Year": 1965,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0059727"
     }
   ]
 }

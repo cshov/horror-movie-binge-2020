@@ -2,6 +2,8 @@ import {getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCount
 import React from "react";
 
 import './BingeStats.css';
+import YearChart from "../YearChart/YearChart";
+import YearChartVertical from "../YearChartVertical/YearChartVertical";
 
 function BingeStats() {
     return (
@@ -76,7 +78,7 @@ function BingeStats() {
 
                 </div>
 
-                <h2>Totals if I watch at pace:</h2>
+                <h2>Totals for year if I watch at these paces from here on out:</h2>
                 <div className="statRow">
                     <div className="statContainer">
                         <h3>1/day</h3>
@@ -96,6 +98,11 @@ function BingeStats() {
                     </div>
                 </div>
 
+                {/*<h2>Totals per year:</h2>*/}
+                {/*<div className="statRow">*/}
+                {/*    <YearChartVertical></YearChartVertical>*/}
+                {/*</div>*/}
+                {/*<YearChart></YearChart>*/}
             </div>
     );
 }

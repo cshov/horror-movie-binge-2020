@@ -12,6 +12,10 @@ h2 {
     margin-bottom: 60px;
 }
 
+#yearChart {
+    margin: 0 auto;
+}
+
 .statContainer {
     flex: 1;
 }

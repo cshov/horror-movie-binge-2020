@@ -132,6 +132,12 @@ function getYearsList(): YearObject[] {
     return yearsList;
 }
 
+function getYearsAndValuesSortedByYear() {
+    const yearsList = getYearsList();
+
+    return yearsList.sort((a: YearObject,b:YearObject) => (a.Year > b.Year) ? 1 : -1);
+}
+
 function sortYearsByMoviesWatched() {
     const numbersByYear: YearObject[] = getYearsList();
 
@@ -146,4 +152,4 @@ function numberOfMoviesNewToMe(): number {
 
 
 
-export {sortByYear, sortByTitle, sortYearsByMoviesWatched, getYearsList, getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCounts, getTotalMoviesAtPace, numberOfMoviesNewToMe};
+export {sortByYear, sortByTitle, sortYearsByMoviesWatched, getYearsList, getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCounts, getTotalMoviesAtPace, numberOfMoviesNewToMe, getYearsAndValuesSortedByYear};
