@@ -16,6 +16,11 @@ export type YearObject = {
     Total: number;
 };
 
+export type DecadeObject = {
+    Decade: number;
+    Total: number;
+};
+
 export type DecadesObject = {
     1900: number;
     1910: number;

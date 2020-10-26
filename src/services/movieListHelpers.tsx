@@ -1,5 +1,5 @@
 import Movies from "../data/movies.json";
-import {DecadesObject, MovieObject, MoviesList, YearObject} from "../models/movieModels";
+import {DecadeObject, DecadesObject, MovieObject, MoviesList, YearObject} from "../models/movieModels";
 
 function getDaysLeft(): number {
     const CurrentDate = new Date();
@@ -132,11 +132,48 @@ function getYearsList(): YearObject[] {
     return yearsList;
 }
 
+function getDecadesList(): DecadeObject[] {
+    const decadesList: DecadeObject[] = [];
+
+    const moviesList: MovieObject[] = sortByYear();
+
+    moviesList.forEach((movie: MovieObject) => {
+        const currentMovieDecade = movie.Year - movie.Year%10;
+
+        const decade = decadesList.find(((decade: DecadeObject) => {return decade.Decade === currentMovieDecade}));
+
+        if(decade) {
+            decade.Total += 1;
+        } else {
+
+
+
+            const newDecadeObject: DecadeObject = {
+                Decade: currentMovieDecade,
+                Total: 1
+            } ;
+            decadesList.push(newDecadeObject);
+        }
+    });
+
+    return decadesList;
+}
+
 function getYearsAndValuesSortedByYear() {
     const yearsList = getYearsList();
 
     return yearsList.sort((a: YearObject,b:YearObject) => (a.Year > b.Year) ? 1 : -1);
 }
+
+
+function getDecadesAndValuesSortedByDecade() {
+    const decadesList = getDecadesList();
+
+    return decadesList.sort((a: DecadeObject, b: DecadeObject) => (a.Decade > b.Decade) ? 1 : -1);
+}
+
+
+
 
 function sortYearsByMoviesWatched() {
     const numbersByYear: YearObject[] = getYearsList();
@@ -152,4 +189,18 @@ function numberOfMoviesNewToMe(): number {
 
 
 
-export {sortByYear, sortByTitle, sortYearsByMoviesWatched, getYearsList, getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCounts, getTotalMoviesAtPace, numberOfMoviesNewToMe, getYearsAndValuesSortedByYear};
+export {
+    sortByYear,
+    sortByTitle,
+    sortYearsByMoviesWatched,
+    getYearsList,
+    getDaysLeft,
+    getNumberMovies,
+    getNumberMoviesToReachGoal,
+    getDecadeCounts,
+    getTotalMoviesAtPace,
+    numberOfMoviesNewToMe,
+    getYearsAndValuesSortedByYear,
+    getDecadesList,
+    getDecadesAndValuesSortedByDecade
+};

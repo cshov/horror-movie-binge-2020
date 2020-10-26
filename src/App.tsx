@@ -6,6 +6,7 @@ import './App.css';
 import MoviesList from './components/MoviesList/MoviesList';
 import BingeStats from "./components/BingeStats/BingeStats";
 import MoviesByYear from "./components/moviesByYear/MoviesByYear";
+import MoviesByDecade from "./components/moviesByDecade/MoviesByDecade";
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
               <nav className="navMenu">
                   <Link to="/">Home</Link>
                   <Link to="/movies-by-year">Year totals</Link>
+                  <Link to="/movies-by-decade">Decade totals</Link>
                   <Link to="/stats">Stats</Link>
               </nav>
 
@@ -28,6 +30,9 @@ export default function App() {
                   </Route>
                   <Route path="/movies-by-year">
                       <MoviesByYear></MoviesByYear>
+                  </Route>
+                  <Route path="/movies-by-decade">
+                      <MoviesByDecade></MoviesByDecade>
                   </Route>
                   <Route path="/">
                       <MoviesList></MoviesList>
