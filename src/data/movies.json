@@ -2439,8 +2439,134 @@
       "Series": "Saw",
       "newToMe": 0,
       "imdbId": "tt0432348"
+    },
+    {
+      "Title": "Trick or Treats",
+      "Year": 1982,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0084825"
+    },
+    {
+      "Title": "Nun",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt2378145"
+    },
+    {
+      "Title": "Hell Night",
+      "Year": 1982,
+      "Notes": "Linda Blair grown up",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0082511"
+    },
+    {
+      "Title": "Tales from the Crypt",
+      "Year": 1972,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0069341"
+    },
+    {
+      "Title": "Gargoyles",
+      "Year": 1972,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0068622"
+    },
+    {
+      "Title": "Catacombs",
+      "Year": 2007,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0449471"
+    },
+    {
+      "Title": "Serena Waits",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt5954878"
+    },
+    {
+      "Title": "Gutterballs",
+      "Year": 2008,
+      "Notes": "some pretty disturbing shit....",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1087853"
+    },
+    {
+      "Title": "Species",
+      "Year": 1995,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0114508"
+    },
+    {
+      "Title": "Frankenstein's Army",
+      "Year": 2013,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1925435"
+    },
+    {
+      "Title": "Lord of Illusions",
+      "Year": 1995,
+      "Notes": "Clive Barker",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0113690"
+    },
+    {
+      "Title": "The Shed",
+      "Year": 2019,
+      "Notes": "BEST VAMP MOVIE IN YEARS",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt8236366"
+    },
+    {
+      "Title": "Humanoids from the Deep",
+      "Year": 1980,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0080904"
+    },
+    {
+      "Title": "Frankenstein",
+      "Year": 2015,
+      "Notes": "really fuckin sad modern take",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt4086032"
+    },
+    {
+      "Title": "Leprechaun 5: In the Hood",
+      "Year": 2000,
+      "Notes": null,
+      "Series": "Leprechaun",
+      "newToMe": 0,
+      "imdbId": "tt0209095"
+    },
+    {
+      "Title": "30 Days of Night",
+      "Year": 2007,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0389722"
     }
-
-
   ]
 }
