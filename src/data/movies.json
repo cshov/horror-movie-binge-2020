@@ -2567,6 +2567,78 @@
       "Series": null,
       "newToMe": 0,
       "imdbId": "tt0389722"
+    },
+    {
+      "Title": "Planet Terror",
+      "Year": 2007,
+      "Notes": null,
+      "Series": "Grindhouse",
+      "newToMe": 0,
+      "imdbId": "tt1077258"
+    },
+    {
+      "Title": "Death Proof",
+      "Year": 2007,
+      "Notes": null,
+      "Series": "Grindhouse",
+      "newToMe": 0,
+      "imdbId": "tt1028528"
+    },
+    {
+      "Title": "Mandy",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt6998518"
+    },
+    {
+      "Title": "Midsommar",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt8772262"
+    },
+    {
+      "Title": "Bloodsucking Freaks",
+      "Year": 1976,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0077247"
+    },
+    {
+      "Title": "Bloodsucking Bastards",
+      "Year": 2015,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt3487994"
+    },
+    {
+      "Title": "Summer of 84",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt5774450"
+    },
+    {
+      "Title": "Halloween 5: The Revenge of Michael Myers",
+      "Year": 1989,
+      "Notes": "Last Drive In with Joe Bob Briggs",
+      "Series": "Halloween",
+      "newToMe": 0,
+      "imdbId": "tt0097474"
+    },
+    {
+      "Title": "I Still Know What You Did Last Summer",
+      "Year": 1998,
+      "Notes": null,
+      "Series": "IKWYDLS",
+      "newToMe": 0,
+      "imdbId": "tt0130018"
     }
   ]
 }
