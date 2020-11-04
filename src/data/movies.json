@@ -2564,7 +2564,7 @@
       "Title": "30 Days of Night",
       "Year": 2007,
       "Notes": null,
-      "Series": null,
+      "Series": "30 Days of Night",
       "newToMe": 0,
       "imdbId": "tt0389722"
     },
@@ -2639,6 +2639,30 @@
       "Series": "IKWYDLS",
       "newToMe": 0,
       "imdbId": "tt0130018"
+    },
+    {
+      "Title": "30 Days of Night: Dark Days",
+      "Year": 2010,
+      "Notes": null,
+      "Series": "30 Days of Night",
+      "newToMe": 1,
+      "imdbId": "tt1320304"
+    },
+    {
+      "Title": "The Descent",
+      "Year": 2005,
+      "Notes": null,
+      "Series": "The Descent",
+      "newToMe": 0,
+      "imdbId": "tt0435625"
+    },
+    {
+      "Title": "The Descent: Part 2",
+      "Year": 2009,
+      "Notes": null,
+      "Series": "The Descent",
+      "newToMe": 1,
+      "imdbId": "tt1073105"
     }
   ]
 }
