@@ -2775,6 +2775,22 @@
       "Series": "Piranha",
       "newToMe": 1,
       "imdbId": "tt0464154"
+    },
+    {
+      "Title": "Leprechaun 6: Back 2 Tha Hood",
+      "Year": 2003,
+      "Notes": null,
+      "Series": "Leprechaun",
+      "newToMe": 1,
+      "imdbId": "tt0339294"
+    },
+    {
+      "Title": "Leprechaun Returns",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "Leprechaun",
+      "newToMe": 1,
+      "imdbId": "tt8155182"
     }
   ]
 }
