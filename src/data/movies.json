@@ -2663,6 +2663,118 @@
       "Series": "The Descent",
       "newToMe": 1,
       "imdbId": "tt1073105"
+    },
+    {
+      "Title": "Terror Train",
+      "Year": 1980,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0081617"
+    },
+    {
+      "Title": "House",
+      "Year": 1985,
+      "Notes": null,
+      "Series": "House",
+      "newToMe": 1,
+      "imdbId": "tt0091223"
+    },
+    {
+      "Title": "House II: The Second Story",
+      "Year": 1987,
+      "Notes": null,
+      "Series": "House",
+      "newToMe": 1,
+      "imdbId": "tt0093220"
+    },
+    {
+      "Title": "House of Usher",
+      "Year": 1960,
+      "Notes": "Vincent Price",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0053925"
+    },
+    {
+      "Title": "The Masque of the Red Death",
+      "Year": 1964,
+      "Notes": "Vincent Price",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0058333"
+    },
+    {
+      "Title": "The Tomb of Ligeia",
+      "Year": 1964,
+      "Notes": "Vincent Price",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0059821"
+    },
+    {
+      "Title": "Theater of Blood",
+      "Year": 1973,
+      "Notes": "Vincent Price",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0070791"
+    },
+    {
+      "Title": "Urban Legend",
+      "Year": 1998,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0146336"
+    },
+    {
+      "Title": "Dark Universe",
+      "Year": 1993,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0106666"
+    },
+    {
+      "Title": "Inkubus",
+      "Year": 2011,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1650537"
+    },
+    {
+      "Title": "Krampus: The Christmas Devil",
+      "Year": 2014,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt2578608"
+    },
+    {
+      "Title": "Macabre",
+      "Year": 1980,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0080764"
+    },
+    {
+      "Title": "Piranha DD",
+      "Year": 2012,
+      "Notes": null,
+      "Series": "Piranha",
+      "newToMe": 1,
+      "imdbId": "tt1714203"
+    },
+    {
+      "Title": "Piranha 3D",
+      "Year": 2010,
+      "Notes": null,
+      "Series": "Piranha",
+      "newToMe": 1,
+      "imdbId": "tt0464154"
     }
   ]
 }
