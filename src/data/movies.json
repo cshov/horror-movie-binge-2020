@@ -2791,6 +2791,134 @@
       "Series": "Leprechaun",
       "newToMe": 1,
       "imdbId": "tt8155182"
+    },
+    {
+      "Title": "The Thing",
+      "Year": 1982,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0084787"
+    },
+    {
+      "Title": "House of 1000 Corpses",
+      "Year": 2003,
+      "Notes": null,
+      "Series": "Firefly Family Trilogy",
+      "newToMe": 0,
+      "imdbId": "tt0251736"
+    },
+    {
+      "Title": "The Village",
+      "Year": 2004,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0368447"
+    },
+    {
+      "Title": "Blair Witch 2: Book of Shadows",
+      "Year": 2000,
+      "Notes": null,
+      "Series": "Blair Witch",
+      "newToMe": 0,
+      "imdbId": "tt0229260"
+    },
+    {
+      "Title": "The Happening",
+      "Year": 2008,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0949731"
+    },
+    {
+      "Title": "Blair Witch",
+      "Year": 2016,
+      "Notes": null,
+      "Series": "Blair Witch",
+      "newToMe": 1,
+      "imdbId": "tt1540011"
+    },
+    {
+      "Title": "Spawn",
+      "Year": 1997,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0120177"
+    },
+    {
+      "Title": "Blade: The Iron Cross",
+      "Year": 2020,
+      "Notes": null,
+      "Series": "Puppetmaster",
+      "newToMe": 1,
+      "imdbId": "tt10887344"
+    },
+    {
+      "Title": "The Stepfather",
+      "Year": 1987,
+      "Notes": null,
+      "Series": "Stepfather",
+      "newToMe": 1,
+      "imdbId": "tt0094035"
+    },
+    {
+      "Title": "Stepfather 2",
+      "Year": 1989,
+      "Notes": null,
+      "Series": "Stepfather",
+      "newToMe": 1,
+      "imdbId": "tt0098385"
+    },
+    {
+      "Title": "Stepfather 3",
+      "Year": 1992,
+      "Notes": null,
+      "Series": "Stepfather",
+      "newToMe": 1,
+      "imdbId": "tt0105470"
+    },
+    {
+      "Title": "The Dentist",
+      "Year": 1996,
+      "Notes": null,
+      "Series": "Dentist",
+      "newToMe": 1,
+      "imdbId": "tt0116075"
+    },
+    {
+      "Title": "The Dentist 2",
+      "Year": 1998,
+      "Notes": null,
+      "Series": "Dentist",
+      "newToMe": 1,
+      "imdbId": "tt0161492"
+    },
+    {
+      "Title": "Mikey",
+      "Year": 1992,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0104870"
+    },
+    {
+      "Title": "Blood Beat",
+      "Year": 1983,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0088822"
+    },
+    {
+      "Title": "Friday the 13th",
+      "Year": 1980,
+      "Notes": null,
+      "Series": "Friday the 13th",
+      "newToMe": 0,
+      "imdbId": "tt0080761"
     }
   ]
 }
