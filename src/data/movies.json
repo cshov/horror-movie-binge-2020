@@ -2919,6 +2919,54 @@
       "Series": "Friday the 13th",
       "newToMe": 0,
       "imdbId": "tt0080761"
+    },
+    {
+      "Title": "Friday the 13th: Part 2",
+      "Year": 1981,
+      "Notes": null,
+      "Series": "Friday the 13th",
+      "newToMe": 0,
+      "imdbId": "tt0082418"
+    },
+    {
+      "Title": "Friday the 13th: Part 3",
+      "Year": 1982,
+      "Notes": null,
+      "Series": "Friday the 13th",
+      "newToMe": 1,
+      "imdbId": "tt0083972"
+    },
+    {
+      "Title": "Friday the 13th: The Final Chapter",
+      "Year": 1984,
+      "Notes": null,
+      "Series": "Friday the 13th",
+      "newToMe": 1,
+      "imdbId": "tt0087298"
+    },
+    {
+      "Title": "Ganja & Hess",
+      "Year": 1973,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0068619"
+    },
+    {
+      "Title": "Scream 4",
+      "Year": 2011,
+      "Notes": null,
+      "Series": "Scream",
+      "newToMe": 0,
+      "imdbId": "tt1262416"
+    },
+    {
+      "Title": "The Blair Witch Project",
+      "Year": 1999,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0185937"
     }
   ]
 }
