@@ -2967,6 +2967,206 @@
       "Series": null,
       "newToMe": 0,
       "imdbId": "tt0185937"
+    },
+    {
+      "Title": "Host",
+      "Year": 2020,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt12749596"
+    },
+    {
+      "Title": "Tammy and the T Rex",
+      "Year": 1994,
+      "Notes": "credits say Denise Richards is named Tanny... wtf",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0111361"
+    },
+    {
+      "Title": "Horns",
+      "Year": 2013,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt1528071"
+    },
+    {
+      "Title": "Blade",
+      "Year": 1998,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0120611"
+    },
+    {
+      "Title": "Blade 2",
+      "Year": 2002,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0187738"
+    },
+    {
+      "Title": "Nightwish",
+      "Year": 1989,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0097982"
+    },
+    {
+      "Title": "The Last Sharknado: It's About Time",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "Sharknado",
+      "newToMe": 0,
+      "imdbId": "tt8031422"
+    },
+    {
+      "Title": "Children of the Corn",
+      "Year": 2009,
+      "Notes": "Shitty TV version remake",
+      "Series": "Children of the Corn",
+      "newToMe": 1,
+      "imdbId": "tt1290135"
+    },
+    {
+      "Title": "Jesus Christ Vampire Hunter",
+      "Year": 2001,
+      "Notes": "Candadian Jesus fights lesbian vampires...",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0311361"
+    },
+    {
+      "Title": "When a Stranger Calls",
+      "Year": 1979,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0080130"
+    },
+    {
+      "Title": "Mortuary",
+      "Year": 1983,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0087746"
+    },
+    {
+      "Title": "Demonoid",
+      "Year": 1981,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0082257"
+    },
+    {
+      "Title": "Zombie High",
+      "Year": 1987,
+      "Notes": "Young Virginia Madsen",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0094383"
+    },
+    {
+      "Title": "Blacula",
+      "Year": 1972,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0068284"
+    },
+    {
+      "Title": "Eat Locals",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt4401006"
+    },
+    {
+      "Title": "Repo: The Genetic Opera",
+      "Year": 2008,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0963194"
+    },
+    {
+      "Title": "Scooby Doo & Zombie Island",
+      "Year": 1998,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0166792"
+    },
+    {
+      "Title": "Errementari",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt5592878"
+    },
+    {
+      "Title": "As Above, So Below",
+      "Year": 2014,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt2870612"
+    },
+    {
+      "Title": "Tremors: A Cold Day in Hell",
+      "Year": 2018,
+      "Notes": null,
+      "Series": "Tremors",
+      "newToMe": 0,
+      "imdbId": "tt6086082"
+    },
+    {
+      "Title": "Doom",
+      "Year": 2005,
+      "Notes": null,
+      "Series": "Doom",
+      "newToMe": 0,
+      "imdbId": "tt0419706"
+    },
+    {
+      "Title": "Nobody Sleeps in the Woods Tonight",
+      "Year": 2020,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt11240506"
+    },
+    {
+      "Title": "Creep",
+      "Year": 2014,
+      "Notes": null,
+      "Series": "Creep",
+      "newToMe": 1,
+      "imdbId": "tt2428170"
+    },
+    {
+      "Title": "Creep 2",
+      "Year": 2017,
+      "Notes": null,
+      "Series": "Creep",
+      "newToMe": 1,
+      "imdbId": "tt3654796"
+    },
+    {
+      "Title": "Tremors: Shrieker Island",
+      "Year": 2020,
+      "Notes": null,
+      "Series": "Tremors",
+      "newToMe": 1,
+      "imdbId": "tt8322060"
     }
   ]
 }
