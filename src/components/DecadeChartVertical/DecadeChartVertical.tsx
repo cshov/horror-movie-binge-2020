@@ -22,7 +22,7 @@ class YearChartVertical extends Component {
         const barHeight = 10;
 
         const x = d3.scaleLinear()
-            .domain([0,100]) // TODO: make dynamic with min/max
+            .domain([0,150]) // TODO: make dynamic with min/max
             .range([padding, width-padding]);
         const y = d3.scaleLinear()
             .domain([2020,1920]) // TODO: make dynamic with min/max
@@ -59,7 +59,7 @@ class YearChartVertical extends Component {
             .attr("transform", "translate(-1," + (padding- barHeight/2 - 1) + ")")
             .attr('color', '#CCC')
             .call(make_x_gridlines_top()
-                .tickSize(-(height - 2*padding - barHeight/2))
+                .tickSize(-(height -padding - barHeight))
             )
 
         svgCanvas.selectAll('rect')

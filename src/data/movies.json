@@ -3167,6 +3167,38 @@
       "Series": "Tremors",
       "newToMe": 1,
       "imdbId": "tt8322060"
+    },
+    {
+      "Title": "Poltergeist",
+      "Year": 1982,
+      "Notes": null,
+      "Series": "Poltergeist",
+      "newToMe": 0,
+      "imdbId": "tt0084516"
+    },
+    {
+      "Title": "A.M.I.",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt8712750"
+    },
+    {
+      "Title": "Prom Night",
+      "Year": 2008,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0926129"
+    },
+    {
+      "Title": "Girl on the Third Floor",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt9026184"
     }
   ]
 }

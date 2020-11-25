@@ -22,7 +22,7 @@ class YearChartVertical extends Component {
         const barHeight = 10;
 
         const x = d3.scaleLinear()
-            .domain([0,20]) // TODO: make dynamic with min/max
+            .domain([0,25]) // TODO: make dynamic with min/max
             .range([padding, width-padding]);
         const y = d3.scaleLinear()
             .domain([2020,1920]) // TODO: make dynamic with min/max
