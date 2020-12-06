@@ -2338,7 +2338,7 @@
     },
     {
       "Title": "The VelociPastor",
-      "Year": 2018,
+      "Year": 2019,
       "Notes": null,
       "Series": null,
       "newToMe": 1,
@@ -3431,6 +3431,38 @@
       "Series": null,
       "newToMe": 0,
       "imdbId": "tt1156398"
+    },
+    {
+      "Title": "#Alive",
+      "Year": 2020,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt10620868"
+    },
+    {
+      "Title": "Girls With Balls",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt4725842"
+    },
+    {
+      "Title": "Deadly Detention",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt5810368"
+    },
+    {
+      "Title": "28 Weeks Later",
+      "Year": 2007,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0463854"
     }
   ]
 }
