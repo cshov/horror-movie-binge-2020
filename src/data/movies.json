@@ -3487,6 +3487,94 @@
       "Series": null,
       "newToMe": 1,
       "imdbId": "tt8485772"
+    },
+    {
+      "Title": "The Prey",
+      "Year": 1983,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0086137"
+    },
+    {
+      "Title": "Berserker",
+      "Year": 1987,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0164393"
+    },
+    {
+      "Title": "The Chill Factor",
+      "Year": 1993,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0106698"
+    },
+    {
+      "Title": "Day of the Dead 2: Contagium",
+      "Year": 2005,
+      "Notes": "Pretty shit....",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0411269"
+    },
+    {
+      "Title": "Night of the Living Dead 3D: Re-Animation",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1879012"
+    },
+    {
+      "Title": "Night of the Living Dead: Resurrection",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt2006801"
+    },
+    {
+      "Title": "Nightmare On Elm Street",
+      "Year": 2010,
+      "Notes": "Remake",
+      "Series": "Nightmare on Elm Street",
+      "newToMe": 0,
+      "imdbId": "tt1179056"
+    },
+    {
+      "Title": "Awaken the Devil",
+      "Year": 2014,
+      "Notes": "stuuuuuuupid",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt4123888"
+    },
+    {
+      "Title": "Manhattan Baby",
+      "Year": 1982,
+      "Notes": "Lucio Fulci",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0084298"
+    },
+    {
+      "Title": "The New York Ripper",
+      "Year": 1982,
+      "Notes": "Lucio Fulci",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0084719"
+    },
+    {
+      "Title": "Black Sunday",
+      "Year": 1960,
+      "Notes": "Mario Bava",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0054067"
     }
   ]
 }
