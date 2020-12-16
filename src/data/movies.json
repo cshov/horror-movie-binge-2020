@@ -3619,7 +3619,7 @@
     {
       "Title": "VFW",
       "Year": 2019,
-      "Notes": null,
+      "Notes": 2019,
       "Series": null,
       "newToMe": 1,
       "imdbId": "tt9894470"
@@ -3631,6 +3631,118 @@
       "Series": null,
       "newToMe": 0,
       "imdbId": "tt0091499"
+    },
+    {
+      "Title": "Secret Santa",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt6328004"
+    },
+    {
+      "Title": "An American Werewolf in London",
+      "Year": 1981,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0082010"
+    },
+    {
+      "Title": "Friday the 13th Part V: A New Beginning",
+      "Year": 1985,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0089173"
+    },
+    {
+      "Title": "Friday the 13th Part VI: Jason Lives",
+      "Year": 1986,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0091080"
+    },
+    {
+      "Title": "Christmas Evil",
+      "Year": 1980,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0081793"
+    },
+    {
+      "Title": "Pet Sematary Two",
+      "Year": 1992,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0105128"
+    },
+    {
+      "Title": "Bubba Ho-Tep",
+      "Year": 2002,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0281686"
+    },
+    {
+      "Title": "Murder Party",
+      "Year": 2007,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0878695"
+    },
+    {
+      "Title": "Seedpeople",
+      "Year": 1992,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0105347"
+    },
+    {
+      "Title": "The Gate",
+      "Year": 1987,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0093075"
+    },
+    {
+      "Title": "Waxwork",
+      "Year": 1988,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0096426"
+    },
+    {
+      "Title": "Slaughter High",
+      "Year": 1985,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0091969"
+    },
+    {
+      "Title": "The Cabinet of Dr. Caligari",
+      "Year": 1920,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0010323"
+    },
+    {
+      "Title": "Sheep Skin",
+      "Year": 2013,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt3109842"
     }
   ]
 }
