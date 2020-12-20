@@ -3743,6 +3743,110 @@
       "Series": null,
       "newToMe": 1,
       "imdbId": "tt3109842"
+    },
+    {
+      "Title": "The Elf",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt7136736"
+    },
+    {
+      "Title": "Gremlin",
+      "Year": 2017,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt6191390"
+    },
+    {
+      "Title": "The Grudge",
+      "Year": 2004,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0391198"
+    },
+    {
+      "Title": "Killer Sofa",
+      "Year": 2019,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt7133754"
+    },
+    {
+      "Title": "American Psycho",
+      "Year": 2000,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0144084"
+    },
+    {
+      "Title": "Oasis of the Zombies",
+      "Year": 1982,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0086486"
+    },
+    {
+      "Title": "Bikini Bloodbath Christmas",
+      "Year": 2009,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1146278"
+    },
+    {
+      "Title": "Rare Exports",
+      "Year": 2010,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1401143"
+    },
+    {
+      "Title": "Santa Jaws",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt8305692"
+    },
+    {
+      "Title": "Train to Busan",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt5700672"
+    },
+    {
+      "Title": "10 Cloverfield Lane",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1179933"
+    },
+    {
+      "Title": "The Fog",
+      "Year": 1980,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0080749"
+    },
+    {
+      "Title": "Zombie Pirates",
+      "Year": 2014,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt3523420"
     }
   ]
 }
