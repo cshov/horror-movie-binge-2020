@@ -1,5 +1,21 @@
+body {
+  background-color: #282c34;
+}
+
 .App {
+  background-color: #282c34;
   text-align: center;
+  color: #d80e0e;
+}
+
+.App a {
+  color: #d80e0e;
+  font-weight: bold;
+}
+
+.App a:visited {
+  color: #d80e0e;
+  font-weight: bold;
 }
 
 .App-logo {
@@ -28,7 +44,7 @@ table td {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: orange;
+  color: #d80e0e;
 }
 
 .App-header h1 {
@@ -45,16 +61,21 @@ table td {
 
 .navMenu {
   display: flex;
-  margin-bottom: 32px;
+  margin: 8px 12px 32px;
+  background-color: #d80e0e;
 }
 
 .navMenu a {
   flex: 1;
-  margin: 10px;
+  margin: 4px 0 4px 4px;
   padding: 10px;
   font-weight: bold;
-  background: black;
-  color: orange;
+  background: #282c34;
+  color: #d80e0e;
+}
+
+.navMenu a:last-child {
+  margin-right: 4px;
 }
 
 @keyframes App-logo-spin {

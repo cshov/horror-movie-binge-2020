@@ -1,4 +1,4 @@
-import {getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCounts, getTotalMoviesAtPace, numberOfMoviesNewToMe} from "../../services/movieListHelpers";
+import {getDaysLeft, getNumberMovies, getNumberMoviesToReachGoal, getDecadeCounts, getTotalMoviesAtPace, numberOfMoviesNewToMe, getYearsListWithMoviesIncluded} from "../../services/movieListHelpers";
 import React from "react";
 
 import './BingeStats.css';
@@ -6,6 +6,8 @@ import YearChart from "../YearChart/YearChart";
 import YearChartVertical from "../YearChartVertical/YearChartVertical";
 
 function BingeStats() {
+
+    console.log(getYearsListWithMoviesIncluded());
     return (
             <div className="bingeStats">
 
@@ -29,7 +31,7 @@ function BingeStats() {
                     </div>
                 </div>
 
-                <h2>Movies per decade:</h2>
+                {/*<h2>Movies per decade:</h2>
                 <div className="statRow">
                     <div className="statContainer">
                         <h3>1920</h3>
@@ -76,7 +78,7 @@ function BingeStats() {
                         <p>{getDecadeCounts()['2020']}</p>
                     </div>
 
-                </div>
+                </div>*/}
 
                 <h2>Totals for year if I watch at these paces from here on out:</h2>
                 <div className="statRow">

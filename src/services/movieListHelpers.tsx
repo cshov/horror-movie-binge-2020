@@ -1,5 +1,12 @@
 import Movies from "../data/movies.json";
-import {DecadeObject, DecadesObject, MovieObject, MoviesList, YearObject} from "../models/movieModels";
+import {
+    DecadeObject,
+    DecadesObject,
+    MovieObject,
+    MoviesList,
+    YearObject,
+    YearObjectWithMovies
+} from "../models/movieModels";
 
 function getDaysLeft(): number {
     const CurrentDate = new Date();
@@ -23,7 +30,7 @@ function getNumberMoviesToReachGoal(): string {
     const MoviesResponse: MoviesList = Movies;
     const moviesList: MovieObject[] = MoviesResponse.Movies;
     const moviesSoFar = moviesList.length;
-    const moviesLeft = 365 - moviesSoFar;
+    const moviesLeft = 500 - moviesSoFar;
     const rate = moviesLeft/daysLeft;
 
     return rate.toFixed(3);
@@ -132,6 +139,34 @@ function getYearsList(): YearObject[] {
     return yearsList;
 }
 
+function getYearsListWithMoviesIncluded(): YearObjectWithMovies[] {
+    const yearsList: YearObjectWithMovies[] = [];
+
+    const moviesList: MovieObject[] = sortByYear();
+
+    moviesList.forEach((movie: MovieObject) => {
+
+        const year = yearsList.find(((year: YearObjectWithMovies) => {return year.Year === movie.Year}));
+
+        if(!year) {
+            const newYearObject: YearObjectWithMovies = {
+                Year: movie.Year,
+                Movies: [movie]
+            } ;
+            yearsList.push(newYearObject);
+
+        } else {
+            year.Movies.push(movie);
+        }
+
+    });
+
+
+    // return yearsList.sort((a: YearObject,b:YearObject) => (a.Year > b.Year) ? 1 : -1);
+
+    return yearsList.sort((a: YearObjectWithMovies,b:YearObjectWithMovies) => (a.Year > b.Year) ? 1 : -1);
+}
+
 function getDecadesList(): DecadeObject[] {
     const decadesList: DecadeObject[] = [];
 
@@ -202,5 +237,6 @@ export {
     numberOfMoviesNewToMe,
     getYearsAndValuesSortedByYear,
     getDecadesList,
-    getDecadesAndValuesSortedByDecade
+    getDecadesAndValuesSortedByDecade,
+    getYearsListWithMoviesIncluded
 };

@@ -16,6 +16,11 @@ export type YearObject = {
     Total: number;
 };
 
+export type YearObjectWithMovies = {
+    Year: number;
+    Movies: MovieObject[];
+};
+
 export type DecadeObject = {
     Decade: number;
     Total: number;

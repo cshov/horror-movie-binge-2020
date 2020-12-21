@@ -14,7 +14,8 @@ export default function App() {
           <div className="App">
               <header className="App-header">
                   <h1>Horror Movie Binge 2020</h1>
-                  <p>Goal is to hit 365 for the year</p>
+                  <p>Goal WAS to hit 365 for the year. Then it was to hit 500.</p>
+                  {/*TODO: Add progress bar for my goal*/}
               </header>
               <nav className="navMenu">
                   <Link to="/">Home</Link>
