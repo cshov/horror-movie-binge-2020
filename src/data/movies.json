@@ -185,10 +185,10 @@
       "imdbId": "tt0072271"
     },
     {
-      "Title": "Reanimator",
+      "Title": "Re-Animator",
       "Year": 1985,
       "Notes": null,
-      "Series": "Reanimator",
+      "Series": "Re-Animator",
       "newToMe": 1,
       "imdbId": "tt0089885"
     },
@@ -353,10 +353,10 @@
       "imdbId": "tt0077681"
     },
     {
-      "Title": "Reanimator",
+      "Title": "Re-Animator",
       "Year": 1985,
       "Notes": "Last Drive In with Joe Bob Briggs",
-      "Series": "Reanimator",
+      "Series": "Re-Animator",
       "newToMe": 0,
       "imdbId": "tt0089885"
     },
@@ -377,10 +377,10 @@
       "imdbId": "tt0093171"
     },
     {
-      "Title": "Bride of Reanimator",
+      "Title": "Bride of Re-Animator",
       "Year": 1990,
       "Notes": null,
-      "Series": "Reanimator",
+      "Series": "Re-Animator",
       "newToMe": 1,
       "imdbId": "tt0099180"
     },
@@ -3847,6 +3847,190 @@
       "Series": null,
       "newToMe": 1,
       "imdbId": "tt3523420"
+    },
+    {
+      "Title": "Better Watch Out",
+      "Year": 2016,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt4443658"
+    },
+    {
+      "Title": "Bait",
+      "Year": 2012,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt1438173"
+    },
+    {
+      "Title": "The Human Monster",
+      "Year": 1939,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0031208"
+    },
+    {
+      "Title": "The Corpse Vanishes",
+      "Year": 1942,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0034613"
+    },
+    {
+      "Title": "Santa Claus Conquers The Martians",
+      "Year": 1964,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0058548"
+    },
+    {
+      "Title": "It Waits",
+      "Year": 2005,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0430239"
+    },
+    {
+      "Title": "A Crack in the Floor",
+      "Year": 2001,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0236126"
+    },
+    {
+      "Title": "The Brain Eaters",
+      "Year": 1958,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0051432"
+    },
+    {
+      "Title": "Caesar and Otto's Summer Camp Massacre",
+      "Year": 2009,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1196601"
+    },
+    {
+      "Title": "Let the Right One In",
+      "Year": 2008,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1139797"
+    },
+    {
+      "Title": "The Final Girls",
+      "Year": 2015,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt2118624"
+    },
+    {
+      "Title": "All the Creatures Were Stirring",
+      "Year": 2008,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt5273720"
+    },
+    {
+      "Title": "Escape from New York",
+      "Year": 1981,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0082340"
+    },
+    {
+      "Title": "Vivarium",
+      "Year": 2019,
+      "Notes": "What...",
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt8368406"
+    },
+    {
+      "Title": "Revolt of the Zombies",
+      "Year": 1936,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0028174"
+    },
+    {
+      "Title": "Dark Waters",
+      "Year": 1993,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0109550"
+    },
+    {
+      "Title": "The Telling",
+      "Year": 2009,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt1298721"
+    },
+    {
+      "Title": "Varsity Blood",
+      "Year": 2014,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt2363518"
+    },
+    {
+      "Title": "Nightbreed",
+      "Year": 1990,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 0,
+      "imdbId": "tt0100260"
+    },
+    {
+      "Title": "WrestleMassacre",
+      "Year": 2018,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt7200866"
+    },
+    {
+      "Title": "Microwave Massacre",
+      "Year": 1979,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0085937"
+    },
+    {
+      "Title": "Beyond Re-Animator",
+      "Year": 2003,
+      "Notes": null,
+      "Series": "Re-Animator",
+      "newToMe": 1,
+      "imdbId": "tt0222812"
+    },
+    {
+      "Title": "Rabid",
+      "Year": 1977,
+      "Notes": null,
+      "Series": null,
+      "newToMe": 1,
+      "imdbId": "tt0076590"
     }
   ]
 }
